@@ -1,0 +1,13 @@
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7 font creator.csprojResolveAssemblyReference.cache
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\font_creator.Form1.resources
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7_font_creator.Properties.Resources.resources
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7 font creator.csproj.GenerateResource.Cache
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7 font creator.csproj.CoreCompileInputs.cache
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\5x7 font creator.exe.config
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\5x7 font creator.exe
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\5x7 font creator.pdb
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\MetroFramework.Design.dll
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\MetroFramework.dll
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\bin\Debug\MetroFramework.Fonts.dll
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7 font creator.exe
+D:\Arga.master\Projects\[ Arga SW ]\5x7 font creator\5x7 font creator\obj\Debug\5x7 font creator.pdb
